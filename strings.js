@@ -16,7 +16,7 @@ function add_numbers(array) {
 //  returns true if their sum is greater than 100,
 // And false otherwise
 function sumIs100(number1, number2) {
-  sum =number1+number2
+  sum = number1+number2
     if(sum>100){
         return true
     }else{
